@@ -13,6 +13,7 @@
     <Authors>Nicolas Hendrikx</Authors>
     <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
     <Description>Non-Comment Source Statements Analyzer for Roslyn.</Description>
+    <RepositoryUrl>https://github.com/NicolasHendrikx/Ncss.Analyzer</RepositoryUrl>
     <PackageReleaseNotes>First release</PackageReleaseNotes>
     <Copyright>Copyright</Copyright>
     <PackageTags>Ncss.Analyzer, analyzers</PackageTags>
